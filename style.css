@@ -1,0 +1,40 @@
+body{
+    color:white;
+    background:cornflowerblue
+}
+
+.heading1{
+font: size 24px;
+width:80%;
+}
+
+.brtag{
+    color:ghostwhite
+}
+
+#cam{
+    border-style: dashed;
+    border-width: 2px;
+    border-color: antiquewhite;
+    width: 350px;
+    height: 350px;
+}
+
+#result{
+
+    border-style: ridge;
+    border-width: 2px;
+    border-color: antiquewhite;
+    width: 350px;
+    height: 350px;
+}
+
+#name{
+
+    color:rgb(238, 133, 133);
+}
+
+#accuracy{
+
+    color:rgb(238, 133, 133);
+}
